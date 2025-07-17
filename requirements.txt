@@ -1,0 +1,6 @@
+openai
+aiogram
+python-dotenv
+numpy
+tiktoken
+aiosqlite

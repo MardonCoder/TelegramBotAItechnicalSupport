@@ -1,0 +1,39 @@
+# created by virtualenv automatically
+*.env
+*.db
+data/
+data/stats.db
+__pycache__/
+*.py[cod]
+config.py
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+poetry.lock
+requirements.txt  # если генерируете автоматически
+
+.env
+.env.*.local
+.coverage
+
+# виртуальное окружение
+venv/
+.venv/
+
+# файлы необходимых зависимостей
+*.egg-info/
+dist/
+build/
+
+
+# === PyCharm ===
+*.iml
+
+# === Системные ===
+.DS_Store
+Thumbs.db
